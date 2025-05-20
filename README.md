@@ -5,8 +5,7 @@
 💻 Currently working on **Java** | Learning **Frontend Development**  
 🌱 Eager to dive into **Advanced DSA** & **Full Stack Web Development**  
 🤝 Looking to collaborate on meaningful projects
-
-👨‍💻 Passionate about building impactful software and constantly learning new technologies.
+-👨‍💻 Passionate about building impactful software and constantly learning new technologies.
 
 🔭 Currently expanding my skills in frontend development—excited about combining beautiful UI with powerful backend logic.
 
