@@ -14,8 +14,7 @@
 
  **Languages:** Java ,C/C++
  
- **Interests:** Full Stack Development, Advanced DSA, Open Source
- 
+ **Interests:** Full Stack Development, Advanced DSA, Open Source 
 📫 Reach me on [LinkedIn]: (linkedin.com/in/aabhash-soni-02562b30b)
 
 ⚡ Fun fact: I’ve written more code at 3AM than during classes 😴
